@@ -1,3 +1,5 @@
+![logo](https://github.com/lovish1803/lovish1803/blob/main/Hi...%20I'm%20Lovish.gif)
+
 <img align="right" alt="hacking" width="400" src="https://media.tenor.com/vim4TWKwY5MAAAAd/discord-hacking.gif">
 🔭 I’m currently pursuing Bachelors in Computer Science<br>👯 I’m looking to collaborate on Cyber Security projects<br>🤝 I’m looking for internships<br>🌱 I’m currently learning DSA and web app Pen-testing<br>💬 Ask me about Cyber Security<br>⚡ I love to make music and do photography
 
